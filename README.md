@@ -2,7 +2,7 @@
 
 https://www.youtube.com/live/sohdv21BVNI?si=Wx1DOnss29i4Zyfb - Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS
 
-https://www.youtube.com/live/sohdv21BVNI?si=XnEwrZcoOWHf8YXc&t=5270 - Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS
+https://www.youtube.com/live/sohdv21BVNI?si=XnEwrZcoOWHf8YXc&t=5270 - Адаптивная верстка сайта с нуля для начинающих. Объяснение действий. HTML CSS (Продолжение)
 
 https://www.youtube.com/@FreelancerLifeStyle - Фрилансер по жизни
 
